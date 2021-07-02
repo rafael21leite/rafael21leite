@@ -1,0 +1,3 @@
+- 👋 Oi sou o Rafael, aspirante a programador =)
+- 👀 Aqui eu colocarei todos os meus projetos pessoais e suas atualizações
+- 🌱 Atualmente estou aprendendo HTML/CSS e Java Script e entendo um pouco de C#
